@@ -1,0 +1,22 @@
+table,th,td{
+  table-layout: fixed;
+  border: .7px solid #000;
+  text-align:center;
+  margin: 100px;
+} 
+
+th,td{
+   padding:10px;
+}
+
+.box1 {
+    background: #3d81e7;
+}
+
+.box2 {
+    background: yellow;
+}
+
+th {
+    width: 50%;
+}
